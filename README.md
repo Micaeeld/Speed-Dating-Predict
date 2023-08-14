@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Dating compatibility prediction
 
 This notebook contains exploratory data analysis and a predictive model to predict compatibility between two people on a romantic date. The data was taken from the "Speed Dating" dataset available on Kaggle, which contains information about participants in speed dating events, as well as each couple's mutual estimates.
